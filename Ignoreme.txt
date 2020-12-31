@@ -1,2 +1,3 @@
 Este archivo es puramente para prueba... no sirve más que para eso y para hacer campo. 
 Así que si lo encuentra y lo quiere borrar absolutamente nada más va a pasar que liberar espacio en el disco.
+Se modificó para efectos didácticos.
